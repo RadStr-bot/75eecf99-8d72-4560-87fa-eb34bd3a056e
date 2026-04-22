@@ -1,0 +1,16 @@
+{
+  "operations": [],
+  "resources": {
+    "644cea74-e833-4267-b1c5-1e914813e172": {
+      "types": [
+        "https://ofn.gov.cz/slovník/psm/Schema"
+      ],
+      "iri": "644cea74-e833-4267-b1c5-1e914813e172",
+      "dataPsmHumanLabel": null,
+      "dataPsmHumanDescription": null,
+      "dataPsmTechnicalLabel": null,
+      "dataPsmRoots": [],
+      "dataPsmParts": []
+    }
+  }
+}
