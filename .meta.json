@@ -1,0 +1,18 @@
+{
+  "iri": "75eecf99-8d72-4560-87fa-eb34bd3a056e",
+  "projectIri": "75eecf99-8d72-4560-87fa-eb34bd3a056e",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {},
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-04-22T08:52:43.969Z",
+    "modificationDate": "2026-04-22T08:53:16.591Z"
+  },
+  "_version": 1,
+  "_exportVersion": 1,
+  "_exportedBy": "http://localhost:3100"
+}
